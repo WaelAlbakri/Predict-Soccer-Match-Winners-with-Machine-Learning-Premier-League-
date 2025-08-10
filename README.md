@@ -4,7 +4,7 @@
 
 ## ⚽ Why I Built This
 
-As a passionate soccer fan — especially of the **Premier League** — I wanted to combine my love for the sport with my interest in ML and data science. This project explores how machine learning can be applied to predict match winners by leveraging historical match data, rolling performance metrics, and a time-aware modeling approach.
+As a passionate soccer fan, especially of the **Premier League**, I wanted to combine my love for the sport with my interest in ML and data science. This project explores how machine learning can be applied to predict match winners by leveraging historical match data, rolling performance metrics, and a time-aware modeling approach.
 
 ---
 
